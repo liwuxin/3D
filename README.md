@@ -1,2 +1,2 @@
-# oddittyRC25-3D
+#存放3D模型
 fpv  3D
